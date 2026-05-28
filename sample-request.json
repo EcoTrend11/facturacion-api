@@ -1,0 +1,204 @@
+{
+  "serie": "F001",
+  "numero": 1,
+  "fechaEmision": "2026-05-27",
+  "horaEmision": "14:30:00",
+  "fechaVencimiento": "2026-06-26",
+  "tipoOperacion": "0101",
+  "formaPago": "Contado",
+  "moneda": "PEN",
+  "ordenCompra": "OC-2026-00123",
+
+  "emisor": {
+    "ruc": "20000000001",
+    "razonSocial": "GREEN SAC",
+    "nombreComercial": "GREEN",
+    "codigoDomicilioFiscal": "0001"
+  },
+
+  "adquirente": {
+    "tipoDocumento": "6",
+    "numeroDocumento": "20000000001",
+    "razonSocial": "EMPRESA DE PRUEBA SUNAT"
+  },
+
+  "entrega": {
+    "direccion": "Av. Los Olivos 1234",
+    "provincia": "Lima",
+    "departamento": "Lima",
+    "distrito": "San Isidro",
+    "ubigeo": "150131",
+    "codigoPais": "PE"
+  },
+
+  "guiasRemision": [
+    {
+      "tipoDocumento": "09",
+      "numero": "T001-1"
+    }
+  ],
+
+  "documentosRelacionados": [
+    {
+      "tipoDocumento": "01",
+      "numero": "F001-100"
+    }
+  ],
+
+  "leyendas": [
+    {
+      "codigo": "1000",
+      "texto": "Monto en letras: QUINCE MIL SOLES"
+    }
+  ],
+
+  "impuestos": [
+    {
+      "id": "1000",
+      "nombre": "IGV",
+      "codigoInternacional": "VAT",
+      "categoria": "S",
+      "montoBase": 12711.86,
+      "monto": 2288.14
+    }
+  ],
+
+  "descuentosGlobales": [
+    {
+      "indicador": true,
+      "codigoMotivo": "00",
+      "factor": 10,
+      "monto": 100.00,
+      "base": 15000.00
+    }
+  ],
+
+  "cargosGlobales": [
+    {
+      "indicador": false,
+      "codigoMotivo": "00",
+      "factor": 5,
+      "monto": 50.00,
+      "base": 15000.00
+    }
+  ],
+
+  "anticipos": [
+    {
+      "tipoDocumento": "02",
+      "numero": "A001-50",
+      "monto": 5000.00,
+      "moneda": "PEN"
+    }
+  ],
+
+  "items": [
+    {
+      "numeroOrden": 1,
+      "cantidad": 50,
+      "unidadMedida": "CS",
+      "descripcion": "CAPTOPRIL 1000mg X 30 - Gravado IGV+ISC",
+      "codigoProducto": "Cap-258963",
+      "codigoProductoSunat": "51121703",
+      "valorUnitario": 28.7896,
+      "precioVentaUnitario": 34.99,
+      "tipoPrecio": "01",
+      "valorVenta": 1439.48,
+      "afectacionIgv": "10",
+      "igv": 259.11,
+      "porcentajeIgv": 18.00,
+      "isc": {
+        "monto": 100.00,
+        "sistema": "01",
+        "porcentaje": 30.0
+      },
+      "descuentos": [
+        {
+          "indicador": true,
+          "codigoMotivo": "00",
+          "monto": 25.00,
+          "base": 1439.48
+        }
+      ],
+      "cargos": [],
+      "propiedadesAdicionales": []
+    },
+    {
+      "numeroOrden": 2,
+      "cantidad": 2000,
+      "unidadMedida": "BX",
+      "descripcion": "Cerveza Clásica x 12 - ISC con sistema al valor",
+      "codigoProducto": "Cerv-001",
+      "codigoProductoSunat": "51121500",
+      "valorUnitario": 21.92,
+      "precioVentaUnitario": 38.00,
+      "tipoPrecio": "01",
+      "valorVenta": 35067.82,
+      "afectacionIgv": "10",
+      "igv": 10015.17,
+      "porcentajeIgv": 18.00,
+      "isc": {
+        "monto": 20572.00,
+        "sistema": "03",
+        "porcentaje": 27.8
+      },
+      "descuentos": [],
+      "cargos": [],
+      "propiedadesAdicionales": []
+    },
+    {
+      "numeroOrden": 3,
+      "cantidad": 10,
+      "unidadMedida": "NIU",
+      "descripcion": "Bolsa Plástica Biodegradable - Operación gratuita",
+      "codigoProducto": "Bols-001",
+      "codigoProductoSunat": "51131800",
+      "valorUnitario": 0.00,
+      "precioVentaUnitario": 0.00,
+      "tipoPrecio": "01",
+      "valorVenta": 0.00,
+      "afectacionIgv": "21",
+      "igv": 0.00,
+      "porcentajeIgv": 0.00,
+      "descuentos": [],
+      "cargos": [],
+      "propiedadesAdicionales": [
+        {
+          "codigo": "4100",
+          "nombre": "Indicador de primer o segundo plato",
+          "valor": "1000"
+        }
+      ]
+    },
+    {
+      "numeroOrden": 4,
+      "cantidad": 5,
+      "unidadMedida": "KG",
+      "descripcion": "Arroz Superior - Exonerado IGV",
+      "codigoProducto": "Arroz-001",
+      "codigoProductoSunat": "50161800",
+      "valorUnitario": 3.50,
+      "precioVentaUnitario": 3.50,
+      "tipoPrecio": "01",
+      "valorVenta": 17.50,
+      "afectacionIgv": "20",
+      "igv": 0.00,
+      "porcentajeIgv": 0.00,
+      "descuentos": [],
+      "cargos": [],
+      "propiedadesAdicionales": []
+    }
+  ],
+
+  "detraccion": {
+    "codigoBien": "014",
+    "porcentaje": 10.0,
+    "monto": 1500.00,
+    "cuentaBancoNacion": "000-123456-78"
+  },
+
+  "percepcion": {
+    "tasa": 2.0,
+    "monto": 300.00
+  }
+}

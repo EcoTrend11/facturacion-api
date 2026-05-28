@@ -1,0 +1,12 @@
+[
+  {"codigo": "1000", "descripcion": "Monto expresado en letras"},
+  {"codigo": "1002", "descripcion": "Transferencia gratuita"},
+  {"codigo": "2000", "descripcion": "Comprobante de Percepción"},
+  {"codigo": "2001", "descripcion": "Bienes transferidos en la Amazonía"},
+  {"codigo": "2002", "descripcion": "Servicios prestados en la Amazonía"},
+  {"codigo": "2003", "descripcion": "Contratos de construcción ejecutados en la Amazonía"},
+  {"codigo": "2004", "descripcion": "Agencia de Viaje - Paquete turístico"},
+  {"codigo": "2005", "descripcion": "Venta realizada por emisor itinerante"},
+  {"codigo": "2006", "descripcion": "Operación sujeta a detracción"},
+  {"codigo": "3000", "descripcion": "Código interno generado por el software de Facturación"}
+]

@@ -1,0 +1,9 @@
+[
+  {"codigo": "00", "descripcion": "OTROS DESCUENTOS", "chargeIndicator": false},
+  {"codigo": "01", "descripcion": "DETRACCIÓN", "chargeIndicator": false},
+  {"codigo": "02", "descripcion": "RETENCIÓN", "chargeIndicator": false, "factor": 0.03},
+  {"codigo": "50", "descripcion": "OTROS CARGOS", "chargeIndicator": true},
+  {"codigo": "51", "descripcion": "PERCEPCION VENTA INTERNA", "chargeIndicator": true, "factor": 0.02},
+  {"codigo": "52", "descripcion": "PERCEPCION A LA ADQUISICION DE COMBUSTIBLE", "chargeIndicator": true, "factor": 0.01},
+  {"codigo": "53", "descripcion": "PERCEPCION REALIZADA AL AGENTE DE PERCEPCION CON TASA ESPECIAL", "chargeIndicator": true, "factor": 0.005}
+]

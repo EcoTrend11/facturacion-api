@@ -1,0 +1,22 @@
+[
+  {"codigo": "BJ", "descripcion": "BALDE"},
+  {"codigo": "BG", "descripcion": "BOLSA"},
+  {"codigo": "BO", "descripcion": "BOTELLAS"},
+  {"codigo": "BX", "descripcion": "CAJA"},
+  {"codigo": "CT", "descripcion": "CARTONES"},
+  {"codigo": "CY", "descripcion": "CILINDRO"},
+  {"codigo": "CJ", "descripcion": "CONOS"},
+  {"codigo": "GRM", "descripcion": "GRAMO"},
+  {"codigo": "SET", "descripcion": "JUEGO"},
+  {"codigo": "KGM", "descripcion": "KILOGRAMO"},
+  {"codigo": "KTM", "descripcion": "KILOMETRO"},
+  {"codigo": "KT", "descripcion": "KIT"},
+  {"codigo": "CA", "descripcion": "LATAS"},
+  {"codigo": "LBR", "descripcion": "LIBRAS"},
+  {"codigo": "LTR", "descripcion": "LITRO"},
+  {"codigo": "MTR", "descripcion": "METRO"},
+  {"codigo": "MLL", "descripcion": "MILLARES"},
+  {"codigo": "UM", "descripcion": "MILLON DE UNIDADES"},
+  {"codigo": "NIU", "descripcion": "UNIDAD (BIENES)"},
+  {"codigo": "ZZ", "descripcion": "UNIDAD (SERVICIOS)"}
+]

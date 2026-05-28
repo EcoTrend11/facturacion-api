@@ -1,0 +1,8 @@
+[
+  {"codigo": "01", "descripcion": "Factura – emitida para corregir error en el RUC"},
+  {"codigo": "02", "descripcion": "Factura – emitida por anticipos"},
+  {"codigo": "03", "descripcion": "Boleta de Venta – emitida por anticipos"},
+  {"codigo": "04", "descripcion": "Ticket de Salida – ENAPU"},
+  {"codigo": "05", "descripcion": "Código SCOP"},
+  {"codigo": "99", "descripcion": "Otros"}
+]

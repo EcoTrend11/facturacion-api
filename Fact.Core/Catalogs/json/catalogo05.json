@@ -1,0 +1,9 @@
+[
+  {"id": "1000", "nombre": "IGV", "tipoCodigo": "VAT", "categoria": "S"},
+  {"id": "2000", "nombre": "ISC", "tipoCodigo": "EXC", "categoria": "S"},
+  {"id": "9995", "nombre": "IVAP", "tipoCodigo": "VAT", "categoria": "S"},
+  {"id": "9996", "nombre": "GRATUITO", "tipoCodigo": "FRE", "categoria": "Z"},
+  {"id": "9997", "nombre": "EXONERADO", "tipoCodigo": "VAT", "categoria": "E"},
+  {"id": "9998", "nombre": "INAFECTO", "tipoCodigo": "FRE", "categoria": "O"},
+  {"id": "9999", "nombre": "OTROS CONCEPTOS DE PAGO", "tipoCodigo": "OTH", "categoria": "S"}
+]

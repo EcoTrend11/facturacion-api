@@ -1,0 +1,11 @@
+[
+  {"codigo": "0", "descripcion": "DOC.TRIB.NO.DOM.SIN.RUC"},
+  {"codigo": "1", "descripcion": "DOC. NACIONAL DE IDENTIDAD"},
+  {"codigo": "4", "descripcion": "CARNET DE EXTRANJERIA"},
+  {"codigo": "6", "descripcion": "REG. UNICO DE CONTRIBUYENTES"},
+  {"codigo": "7", "descripcion": "PASAPORTE"},
+  {"codigo": "A", "descripcion": "CED. DIPLOMATICA DE IDENTIDAD"},
+  {"codigo": "B", "descripcion": "DOC.IDENT.PAIS.RESIDENCIA-NO.D"},
+  {"codigo": "C", "descripcion": "Tax Identification Number - TIN – Doc Trib PP.NN"},
+  {"codigo": "D", "descripcion": "Identification Number - IN – Doc Trib PP. JJ"}
+]

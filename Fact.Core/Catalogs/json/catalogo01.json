@@ -1,0 +1,9 @@
+[
+  {"codigo": "01", "descripcion": "FACTURA"},
+  {"codigo": "03", "descripcion": "BOLETA DE VENTA"},
+  {"codigo": "07", "descripcion": "NOTA DE CREDITO"},
+  {"codigo": "08", "descripcion": "NOTA DE DEBITO"},
+  {"codigo": "09", "descripcion": "GUIA DE REMISION REMITENTE"},
+  {"codigo": "12", "descripcion": "TICKET DE SALIDA - ENAPU"},
+  {"codigo": "31", "descripcion": "GUIA DE REMISION TRANSPORTISTA"}
+]

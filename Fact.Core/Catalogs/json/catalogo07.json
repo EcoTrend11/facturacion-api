@@ -1,0 +1,18 @@
+[
+  {"codigo": "10", "descripcion": "Gravado - Operación Onerosa"},
+  {"codigo": "11", "descripcion": "Gravado – Premio"},
+  {"codigo": "12", "descripcion": "Gravado – Donación"},
+  {"codigo": "13", "descripcion": "Gravado - Retiro"},
+  {"codigo": "14", "descripcion": "Gravado - Publicidad"},
+  {"codigo": "15", "descripcion": "Gravado - Bonificaciones"},
+  {"codigo": "16", "descripcion": "Gravado - Entrega a trabajadores"},
+  {"codigo": "20", "descripcion": "Exonerado - Operación Onerosa"},
+  {"codigo": "30", "descripcion": "Inafecto - Operación Onerosa"},
+  {"codigo": "31", "descripcion": "Inafecto – Premio"},
+  {"codigo": "32", "descripcion": "Inafecto - Publicidad"},
+  {"codigo": "33", "descripcion": "Inafecto - Bonificación"},
+  {"codigo": "34", "descripcion": "Inafecto - Retiro"},
+  {"codigo": "35", "descripcion": "Inafecto - Muestras Médicas"},
+  {"codigo": "36", "descripcion": "Inafecto - Retiro por Convenio Colectivo"},
+  {"codigo": "37", "descripcion": "Exportación"}
+]
